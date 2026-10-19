@@ -19,9 +19,9 @@ A sales analytics project combining machine learning-based revenue forecasting w
 - Power BI
 
 ## Project Files
-- `sales_forecasting.ipynb` — forecasting notebook
-- `dashboard_screenshot.png` — dashboard preview
-- `Sales_Intelligence_Dashboard.pbix` — Power BI report
+- `AI_Sales_Forecasting.ipynb` — sales forecasting notebook
+- `Machine learning-based sales forecasting and Power BI dashboard.pbix` — Power BI report
+- `Screenshot.png` — dashboard image 
 
 ## Learning Outcomes
 Practiced connecting machine learning predictions with business intelligence reporting and visualizing forecasting results.
